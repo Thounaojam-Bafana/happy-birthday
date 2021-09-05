@@ -1,0 +1,29 @@
+h1{
+    width: 98%;
+    background-size: cover;
+    text-align: center;
+    margin: 0;
+    border-radius: 10px;
+    margin-left: 7px;
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 11px;
+}
+#images-slide{
+    border-radius: 5px;
+    border: 2px solid black;
+    width:80%;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    margin-top: 50px;
+}
+#gratitude{
+    box-shadow: 5px 5px 5px grey;
+    padding-top: 30px;
+    width:50%;
+    border: 5px ridge black;
+    border-radius: 10px;
+    padding-bottom: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
